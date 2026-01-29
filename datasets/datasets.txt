@@ -1,0 +1,3 @@
+Tianchi：https://tianchi.aliyun.com/dataset
+TILDA：https://universe.roboflow.com/irvin-andersen/tilda-fabric
+Fabric-Kruoy：https://universe.roboflow.com/fabric-na8j5/fabric-kruoy
